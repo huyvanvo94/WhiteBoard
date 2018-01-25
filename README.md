@@ -1,7 +1,7 @@
 <h1>White Board</h1>
 
 <p>
-A Java application to draw shapes and paint on a white canvas with another user through TCP. </br>
+Java application to draw shapes and paint on a white canvas with another user through TCP. </br>
 
 Uses Java GUI framework. The goal of this project is to cover OOP design</br>
 
